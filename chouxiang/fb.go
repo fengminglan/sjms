@@ -10,7 +10,3 @@ func (f *Fb) Push() Push {
 		error: "",
 	}
 }
-
-func (f *Fb) CreatePush() AbstractFactory {
-	return &Fb{}
-}

@@ -1,6 +1,6 @@
 package main
 
-import "xuexi.com/chouxiang"
+import "sjms/chouxiang"
 
 func main() {
 	chouxiang.Chouxiang()
